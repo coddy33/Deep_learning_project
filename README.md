@@ -1,1 +1,7 @@
-# Deep_learning_project
+# Deep learning project
+
+## Prerequisite
+
+-  torch
+-  numpy
+-  matplotlib
